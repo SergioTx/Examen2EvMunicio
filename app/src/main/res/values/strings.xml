@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">EXAMEN PROM</string>
+
+    <string name="main_menu">MENU PRINCIPAL</string>
+    <string name="weather">EL TIEMPO</string>
+    <string name="atomic_data">DATOS ATOMICOS</string>
+    <string name="multimedia">MULTIMEDIA</string>
+    <string name="exit">EXIT</string>
+
+    <string name="go_back">VOLVER</string>
+
+    <string name="audio">audio</string>
+    <string name="shot">disparo</string>
+    <string name="explosion">explosion</string>
+
+    <!-- Los nombres de las ciudades tampoco tiene mucho sentido meterlos aquí, pero por si acaso -->
+    <string name="bilbao">BILBO-BILBAO</string>
+    <string name="vitoria">VITORIA-GASTEIZ</string>
+    <string name="sansebastian">DONOSTIA-SAN SEBASTIAN</string>
+    <string name="choose_location">Escoge una de las siguientes localidades:</string>
+    <string name="local_weather">Tiempo actual en:</string>
+    <string name="hour">Hora</string>
+    <string name="temp">Temperatura</string>
+    <string name="sky">Estado del cielo</string>
+    <string name="element_name">Introduce el nombre del elemento químico:</string>
+    <string name="element_info">INFORMACIÓN DEL ELEMENTO</string>
+
+    <string name="symbol">Símbolo Químico:</string>
+    <string name="atomic_number">Número Atómico:</string>
+    <string name="atomic_weight">Peso Atómico:</string>
+    <string name="boiling_point">Punto de Ebullición:</string>
+    <string name="denstiy">Denisdad:</string>
+    <string name="weather_title">El tiempo</string>
+    <string name="atomic_data_title">Datos Atómicos</string>
+    <string name="multimedia_title">Sonidos Multimedia</string>
+</resources>
